@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+#HW1 個人網頁
+HW1 網站：https://leokao960811.github.io/webproject/
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#HW2 React + Javascript
+影片介紹: https://youtu.be/ZvjTzqYPm1g
+
+Github Repository: https://github.com/leokao960811/ReactApp/tree/main
