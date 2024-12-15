@@ -1,7 +1,6 @@
-HW1 個人網頁
-HW1 網站：
+Thanks for downloading this template!
 
-HW2 React + Javascript
-影片介紹:
-
-Github Repository:
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
